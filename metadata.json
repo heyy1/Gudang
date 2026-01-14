@@ -1,0 +1,7 @@
+{
+  "name": "SmartWarehouse - Sistem Manajemen Gudang",
+  "description": "Aplikasi manajemen gudang modern dengan fitur scan barcode, manajemen stok, dan riwayat transaksi untuk Admin dan Staff.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

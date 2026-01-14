@@ -1,0 +1,17 @@
+
+{
+  "short_name": "SmartWarehouse",
+  "name": "SmartWarehouse - Manajemen Gudang",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2271/2271068.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#f8fafc"
+}
